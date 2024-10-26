@@ -1,0 +1,5 @@
+/venv/*
+/World/*
+.idea/*
+log/*
+*__pycache__*
